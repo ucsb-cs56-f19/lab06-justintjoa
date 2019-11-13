@@ -1,6 +1,0 @@
-{
-    "spring.security.oauth2.client.registration.github.client-id":"a11e55fa0c9c576aa34f",
-    "spring.security.oauth2.client.registration.github.client-secret":"e4ccded59a39a044cb306e78fd94af4541616474",
-    "app_github_org":"ucsb-cs56-f19"
-}
-  
